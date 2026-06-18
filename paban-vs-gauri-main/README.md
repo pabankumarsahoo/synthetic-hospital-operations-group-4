@@ -2,7 +2,7 @@
 
 A data-driven analytics project focused on improving hospital operational efficiency through data engineering, analytics, forecasting, and business intelligence.
 
-## Team 3 Members
+## Team 4 Members
 
 1. Gouri Shankar Nayak 
 2. Paban Kumar Sahoo
